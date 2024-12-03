@@ -40,7 +40,7 @@ int find_diff(vector<int> list1, vector<int> list2)
 
 int main()
 {
-    ifstream input_file("./input1.txt");
+    ifstream input_file("./input.txt");
     string line;
     vector<int> list1;
     vector<int> list2;
